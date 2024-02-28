@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasibur013" alt="hasibur013" /></a> </p>
 
-- 🌱 I’m currently learning **MEARN Stack Development**
+- 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **hasibur01631753881@gmail.com**
 
