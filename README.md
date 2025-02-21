@@ -1,27 +1,78 @@
 <h1 align="center">Hi 👋, I'm Md. Hasibur Rahman</h1>
-<h3 align="center">Student and Enthusiastic to AI, ML, App Development</h3>
+<h3 align="center">Machine Learning Enthusiast | AI, NLP, Computer Vision | Web & App Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasibur013&label=Profile%20views&color=0e75b6&style=flat" alt="hasibur013" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasibur013&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasibur013" alt="hasibur013" /></a> </p>
-
-- 🌱 I’m currently learning **AI/ML**
-
-- 📫 How to reach me **hasibur01631753881@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md-hasibur-rahman-2286321b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-hasibur-rahman-2286321b9" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hasibur013/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/hasibur013/" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100068269274714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md. hasibur rahman" height="30" width="40" /></a>
-<a href="https://twitter.com/mdhasib63316757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdhasib63316757" height="30" width="40" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hasibur013" alt="GitHub Trophies" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me  
+I am a **Machine Learning Engineer** passionate about **AI Agents, Chatbots, Natural Language Processing (NLP), Large Language Models (LLM), and Computer Vision (CV)**.  
+With a **strong foundation in Python, Deep Learning, and Web Development**, I actively build AI-powered applications and contribute to open-source projects.  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasibur013&show_icons=true&locale=en&layout=compact" alt="hasibur013" /></p>
+🎓 **BSc in CSE** | Green University of Bangladesh | CGPA: **3.94/4.0**  
+💡 Always learning and exploring new AI/ML technologies!  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasibur013&show_icons=true&locale=en" alt="hasibur013" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasibur013&" alt="hasibur013" /></p>
+## 🔥 Experience  
+🔹 **Intern - GUB EDGE Project** (2025)  
+🔹 **Teaching Assistant - Structured Programming (C)** (2023)  
+
+---
+
+## 🚀 Projects  
+### 🖼️ **CIFAR-10 Image Classification (PyTorch, MLflow)**
+- **85% Accuracy** with **ResNet-18**
+- **Tools:** Python, PyTorch, MLflow, Gradio  
+[🔗 GitHub](https://github.com/Hasibur013/cifar10_image_classifier_gradio) | [🎥 Demo](https://youtu.be/QcIOw_jK3ag?si=ecqy_68-2c3OS4Cj)  
+
+### 🏥 **Online Medical Sheba (Web App)**
+- **AI Chatbot, Doctor Appointments, Online Medicine Store**  
+- **Best Project Award in IDP Course**  
+- **Tools:** Django, Python, MySQL, JavaScript, Bootstrap  
+[🔗 Project Report](https://drive.google.com/file/d/1If4Zs6X7A1YSs5elVghHi_2rjiwenyVC/view)  
+
+### 🤖 **Healthcare Chatbot**
+- **Retrieves Medical Data & Provides Health Tips**
+- **Tools:** Python, Django, Transformers, Gemini API  
+
+### 📊 **Coffee Shop Sales Dashboard**
+- **Built with Python & Power BI for Data Visualization**  
+
+---
+
+## 🛠️ Languages & Tools  
+**Programming:** Python, C, JavaScript  
+**Frameworks:** Django, FastAPI, PyTorch, TensorFlow  
+**Databases:** MySQL  
+**ML Tools:** NumPy, Pandas, OpenCV, Scikit-Learn, Transformers  
+**Others:** Gradio, MLflow, Seaborn, Matplotlib  
+
+---
+
+## 📚 Certifications & Achievements  
+🏆 **VC Award (7x), Dean Award**  
+🏆 **Best Project Award - Integrated Design Project**  
+📜 **Deep Learning with Computer Vision - Innovative Skills BD**  
+📜 **Machine Learning Bootcamp - bongoDev**  
+
+---
+
+## 🌍 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HasiburRahman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-hasibur-rahman-2286321b9/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Hasibur013-black?style=flat&logo=github)](https://github.com/Hasibur013)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Hasibur013-orange?style=flat&logo=leetcode)](https://leetcode.com/hasibur013/)  
+📧 **Email:** hasibur01631753881@gmail.com  
+
+---
+
+## 📈 GitHub Stats  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasibur013&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>  
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasibur013&show_icons=true&locale=en" alt="GitHub Stats" /></p>  
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasibur013&" alt="GitHub Streak" /></p>  
