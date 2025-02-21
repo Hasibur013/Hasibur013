@@ -64,6 +64,7 @@ With a **strong foundation in Python, Deep Learning, and Web Development**, I ac
 
 ## 🌍 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HasiburRahman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-hasibur-rahman-2286321b9/)  
+[![Kaggle](Kaggle)](https://www.kaggle.com/hasibur013)  
 [![GitHub](https://img.shields.io/badge/GitHub-Hasibur013-black?style=flat&logo=github)](https://github.com/Hasibur013)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Hasibur013-orange?style=flat&logo=leetcode)](https://leetcode.com/hasibur013/)  
 📧 **Email:** hasibur01631753881@gmail.com  
